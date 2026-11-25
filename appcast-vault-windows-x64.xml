@@ -4,6 +4,14 @@
 <title>Tecrys Vault</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys Vault 0.1.0 (build 33)</title>
+<pubDate>Wed, 25 Nov 2026 19:34:41 -0000</pubDate>
+<sparkle:version>33</sparkle:version>
+<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Linux packages for Raspberry Pi and other ARM computers: arm64 (64-bit Raspberry Pi OS Trixie, Debian 13, Ubuntu 25.04+) and armhf (32-bit Raspberry Pi OS Bookworm and newer).</li><li>Fixed: on 32-bit computers the server refused every upload and login as too large.</li><li>Help ▸ Server Computers says which Linux package to download.</li></ul>]]></description>
+<enclosure url="https://github.com/jakpokcz/tecrys-vault-releases/releases/download/vault-v0.1.0-33/TecrysVault-0.1.0-33-windows-x64.exe" sparkle:edSignature="WCQCw61Qa+G6g2ohqlOCZM5EoQHcQkTw8fhVTSroKwA9sCxLPnsXDQO8I/4mloyECEGQmDQUSMvEWDyFL1dVAQ==" length="19806688" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys Vault 0.1.0 (build 32)</title>
 <pubDate>Wed, 25 Nov 2026 07:06:15 -0000</pubDate>
 <sparkle:version>32</sparkle:version>
