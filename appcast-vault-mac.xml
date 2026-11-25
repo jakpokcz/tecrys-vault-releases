@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Tecrys Vault</title>
+<!-- items, newest first -->
+<item>
+<title>Tecrys Vault 0.1.0 (build 31)</title>
+<pubDate>Wed, 25 Nov 2026 06:56:09 -0000</pubDate>
+<sparkle:version>31</sparkle:version>
+<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>First release of Tecrys Vault: serves a team&#x27;s vault to Tecrys and Tecrys PDM, with users, backups and settings.</li><li>The vault&#x27;s database can be built in, PostgreSQL or MariaDB, and moved between them.</li><li>A new vault starts with a trial; after it a licence is installed in the app.</li></ul>]]></description>
+<enclosure url="https://github.com/jakpokcz/tecrys-vault-releases/releases/download/vault-v0.1.0-31/TecrysVault-0.1.0-31.dmg" sparkle:edSignature="2PKCDt49WUSGjhrciTrHleo00zL2F8ZYMsv8iUxDmDgKk+8YFBipC4+rkRXgCErVIT2SMuxEp4UgW+mNLgAGBw==" length="6617352" type="application/octet-stream" sparkle:os="macos"/>
+</item>
+</channel>
+</rss>
