@@ -4,6 +4,14 @@
 <title>Tecrys Vault</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys Vault 0.1.0 (build 34)</title>
+<pubDate>Wed, 25 Nov 2026 22:40:33 -0000</pubDate>
+<sparkle:version>34</sparkle:version>
+<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Backups to several destinations: folders, iCloud Drive and Google Drive (the folders their apps sync), each with its own time, days between backups and number of backups kept (midnight, every 3 days, keep 3 to start with).</li><li>Backups can be encrypted with a password (on for iCloud Drive and Google Drive); without the password nobody can read them.</li><li>Each backup copies only the files that are new; the kept backups share them, so keeping 3 takes little more space than 1.</li><li>Restore… picks a destination and a backup by its date.</li><li>Linux: packages for ordinary PCs (amd64) besides arm64 and 32-bit Raspberry Pi.</li><li>Test Connection says when the database user may not create the database.</li></ul>]]></description>
+<enclosure url="https://github.com/jakpokcz/tecrys-vault-releases/releases/download/vault-v0.1.0-34/TecrysVault-0.1.0-34-windows-x64.exe" sparkle:edSignature="Zq0NE8zRqC/KaoSbgmsHcMJgFEqUgg8GHV3WzZrbjIii5j/NzSt1dAbCkN9tf8cK3bESGalEbMLPA7u4cYXzDw==" length="19855813" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys Vault 0.1.0 (build 33)</title>
 <pubDate>Wed, 25 Nov 2026 19:34:41 -0000</pubDate>
 <sparkle:version>33</sparkle:version>
