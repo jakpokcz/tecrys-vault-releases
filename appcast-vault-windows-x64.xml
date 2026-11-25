@@ -4,6 +4,14 @@
 <title>Tecrys Vault</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys Vault 0.1.0 (build 32)</title>
+<pubDate>Wed, 25 Nov 2026 07:06:15 -0000</pubDate>
+<sparkle:version>32</sparkle:version>
+<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Help ▸ Suggest a Feature… and Report a Problem… open the forms on github.com/jakpokcz/tecrys-vault-releases, with your version and platform filled in.</li></ul>]]></description>
+<enclosure url="https://github.com/jakpokcz/tecrys-vault-releases/releases/download/vault-v0.1.0-32/TecrysVault-0.1.0-32-windows-x64.exe" sparkle:edSignature="cccNji1/JymDWE0uqTDz7pdzbUWZnkjvf0qS6IaKBr11gCqx9B9FM43j2vDXc2DsCH1KN7XWpi3JQL8jMn6FCQ==" length="19806279" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys Vault 0.1.0 (build 31)</title>
 <pubDate>Wed, 25 Nov 2026 06:56:09 -0000</pubDate>
 <sparkle:version>31</sparkle:version>
